@@ -1,0 +1,23 @@
+congratulations! you unscrambled the message in the uss challenge!!
+        0 ./tmp
+        8 ./.npm/_logs/2026-09-29T20_41_17_636Z-debug-0.log
+       16 ./.npm/_logs
+        0 ./.npm/_update-notifier-last-checked
+       24 ./.npm
+        1 ./.npmrc
+        8 ./ussout.txt
+        8 ./.zsh_history
+        8 ./animals.sh
+        8 ./assembler/fibonacci.s
+       16 ./assembler
+       16 ./cobol-check.config.properties
+        8 ./code1.go
+        8 ./code1.py
+        8 ./code2.go
+        8 ./code2.py
+        8 ./code3.go
+        8 ./scramble.sh
+        8 ./secret.txt
+        9 ./test
+      694 .
+Tue Sep 29 15:52:41 CDT 2026

@@ -1,0 +1,14 @@
+Command: zowe tso send as Z76790-194-aadiaaap --data "exec 'Z76790.SOURCE(GUESSNUM)'"
+Output:
+I'm thinking of a number between 1 and 10.
+What is your guess?
+
+Command: zowe tso send as Z76790-194-aadiaaap --data "5"
+Output:
+That's not it. Try again
+What is your guess?
+
+Command: zowe tso send as Z76790-194-aadiaaap --data "3"
+Output:
+You got it! And it only took you 2 tries!
+READY
