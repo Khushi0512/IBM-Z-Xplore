@@ -8,7 +8,7 @@ Quick context: IBM Z Xplore is a free learning platform where you get actual acc
 
 ## The Setup
 
-Everything runs through VSCode with the Zowe Explorer extension connected to IBM's mainframe at `204.90.115.200`. You SSH in, poke around actual z/OS datasets, write JCL, run Python, use REXX — the whole thing. It's a lot more hands-on than most certifications I've come across.
+Everything runs through VSCode with the Zowe Explorer extension connected to IBM's mainframe at `204.90.115.200`. You SSH in, poke around actual z/OS datasets, write JCL, run Python, use REXX. It's a lot more hands-on than most certifications I've come across.
 
 ---
 
